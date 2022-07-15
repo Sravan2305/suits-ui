@@ -17,11 +17,12 @@
         "lib",
         "lib-esm"
     ],
-    "author": "Sravan",
-    "license": "MIT",
-    "dependencies": {
-
+    "author": {
+        "name": "Sravan Kumar",
+        "email": "schintuworks@gmail.com"
     },
+    "license": "MIT",
+    "dependencies": {},
     "devDependencies": {
         "@babel/cli": "^7.17.6",
         "@babel/core": "^7.17.9",
@@ -114,5 +115,8 @@
     "bugs": {
         "url": "https://github.com/Sravan2305/suits-ui.git/issues"
     },
-    "homepage": "https://github.com/Sravan2305/suits-ui.git#readme"
+    "homepage": "https://github.com/Sravan2305/suits-ui.git#readme",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/Sravan2305"
+    }
 }
