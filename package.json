@@ -1,5 +1,5 @@
 {
-    "name": "suits-ui",
+    "name": "@sravan2305/suits-ui",
     "version": "1.0.0",
     "description": "Suits components library from Sravan",
     "main": "lib/index.js",
