@@ -3,7 +3,7 @@
     <strong>Suits UI is a component library with typescript and custom theme support.</strong>
 </div>
 <br>
-## what is Ssuits-ui?
+## what is suits-ui?
 
 suits-ui was created as a hobby project by me to contribute to the Frontend world, with one simple goal, to create the next generation of the next beautiful, more affirmative, design system.
 
