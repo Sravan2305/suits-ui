@@ -1,7 +1,5 @@
 import React from "react";
 import { ButtonProps } from "./types";
-export const Button = ({ color }: ButtonProps) => {
-    const btnColor = color;
-
-    return <button style={{ backgroundColor: color }}>Button color is {btnColor} </button>;
-};
+export const Button = ({ color, children }: ButtonProps) => (
+    <button style={{ backgroundColor: color }}>{children}</button>
+);

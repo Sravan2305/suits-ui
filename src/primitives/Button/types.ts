@@ -1,3 +1,4 @@
 export interface ButtonProps {
-    color: "string";
+    color: string;
+    children: React.ReactNode;
 }
